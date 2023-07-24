@@ -156,10 +156,10 @@ em {
 h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
-  font-size: 32pt;
+  font-size: 28pt;
   font-weight: lighter;
   position: relative;
-  line-height: 1.2em;
+  line-height: 1em;
   position: relative;
   /* left: 28%; */
 }
@@ -181,13 +181,13 @@ h2 {
   margin-bottom: 0.5em;
   width: 100%;
 }
-h2:after {
+/* h2:after {
   border-bottom: 1.7px dashed #d3d3d3;
   /* height: 0.8em; */
-  margin-left: 10px;
+  /*margin-left: 10px;
   content: "";
   flex: 1;
-}
+}*/
 
 h3 strong {
   line-height: 2.5em;

@@ -42,7 +42,7 @@ Perth, Australia
 -   M.S. in Information Technology
 -   GPA 6.0/7.0
 -   Assignments / Projects
-    -     Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
+    -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
 
         -   Achievements: Received HD (High Distinction) grade and recognition on the project hall of fame for delivering an exceptional data warehouse solution.
 
@@ -51,10 +51,16 @@ Perth, Australia
         -   Achievements: Received HD (High Distinction) grade
 
     -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R)
+
         -   Achievements: Received HD (High Distinction) grade
+
     -   COVID Analysis (Python)
-    -   Chemical Equations game and Light Bulb puzzle (Java)
+
+        -   Achievements: Received HD (High Distinction) grade
+
     -   Graph Database & Graph Data Science - Crime in Atlanta (Neo4j, Cypher, and R)
+
+        -   Achievements: Received HD (High Distinction) grade and top four projects
 
 ### **Feng Chia University** `2016 JUN`
 
@@ -76,7 +82,7 @@ Taichung, Taiwan
 -   Achievements:
     -   Successfully created and merged three pull requests into the main branch within one month.
 
-### ** [Pets of Older Persons](https://www.poopswa.org.au), Front end developer** `2022 Nov – 2023 Feb`
+### **[Pets of Older Persons](https://www.poopswa.org.au), Front end developer** `2022 Nov – 2023 Feb`
 -   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
 -   Utilised the Figma to design the layout of the mobile version and desktop version.
 -   Collaborated with other student volunteers and familiar with Git version control.

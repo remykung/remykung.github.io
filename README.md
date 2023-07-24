@@ -1,6 +1,6 @@
 # Resume via GitHub
 
-[Introduce myself to the world](https://remykung.github.io/Resume/)
+[Introduce myself to the world](https://remykung.github.io/remykung.github.io/)
 
 # Reference
 

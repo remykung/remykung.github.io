@@ -43,7 +43,7 @@ Perth, Australia
 -   GPA 6.0/ 7.0
 -   Assignments / Projects
     -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
-        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution.
+        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution, Grade: HD
 
     -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest and Selenium) Grade: HD
     -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) Grade: HD
@@ -85,7 +85,7 @@ Australia
 
 ## Work Experience
 
-### **Deloitte.  Senior Auditor** `2016 Sep- 2020 Apr`
+### **Deloitte, Senior Auditor** `2016 Sep- 2020 Apr`
 
 ```
 Taipei, Taiwan

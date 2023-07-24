@@ -39,10 +39,10 @@ print format: use --- to separate pages
 Perth, Australia
 ```
 
--   M.S. in Information Technology
+-   Master of Information Technology
 -   GPA 6.0/ 7.0
 -   Assignments / Projects
-    -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI) Grade: HD
+    -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
         -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution.
 
     -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest and Selenium) Grade: HD
@@ -50,7 +50,7 @@ Perth, Australia
     -   COVID Analysis and data clean (Python) Grade: HD
     -   Graph Database & Graph Data Science - Crime in Atlanta (Neo4j, Cypher, and R) Grade: HD
 
-### **Feng Chia University** `2016 JUN`
+### **Feng Chia University** `2016 Jun`
 
 ```
 Taichung, Taiwan

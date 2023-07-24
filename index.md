@@ -1,0 +1,96 @@
+---
+layout: cv
+title: YunChuan *Kung*
+email:
+    url: mailto:yunchuan.kung@gmail.com
+    text: yunchuan.kung@gmail.com
+github:
+    url: https://github.com/remykung
+    text: remykung
+linkedin:
+    url: https://www.linkedin.com/in/hui-xin-yang
+    text: Linkedin
+phone:
+    tel: tel:+61481169598
+    text: 0481169598
+---
+
+# YunChuan **Kung**
+
+<!--
+include contact information from the front matter
+Supported arguments:
+    - homepage: url, text
+    - phone
+    - email
+-->
+
+{% include cv-contact.html %}
+
+<!--
+print format: use --- to separate pages
+-->
+
+## Education
+
+### **University of Western Australia (UWA)** `2021.2 -`
+
+```
+Perth, Australia
+```
+
+-   M.S. in Information Technology
+-   GPA 6.0/7
+-   Assignments / Projects
+    -     Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
+        -   Achievements: Received HD (High Distinction) grade and recognition on the project hall of fame for delivering an exceptional data warehouse solution.
+    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, and the SQLAlchemy. Test unittest and Selenium)
+        -   Achievements: Received HD (High Distinction) grade
+    -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R)
+        -   Achievements: Received HD (High Distinction) grade
+    -   COVID Analysis (Python)
+    -   Chemical Equations game and Light Bulb puzzle (Java)
+    -   Graph Database & Graph Data Science - Crime in Atlanta (Neo4j, Cypher, and R)
+
+### **Feng Chia University** `2016 JUN`
+
+```
+Taichung, Taiwan
+```
+
+-   Bachelor of Accounting
+-   GPA 3.80/4.0
+
+
+## Project Experience - Coders For Causes  [Coders for Causes](https://codersforcauses.org)
+
+### **Repair Labs project, Full Stack developer** `2023 Jun – Present`
+
+-   Member in [Repair Labs](https://github.com/codersforcauses/repair-labs) Project
+-   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, prisma as ORM, Postgres for local DB and Vercel.
+-   Utilised the Figma to design the layout of the mobile version and desktop version.
+-   Built robust APIs to connect frontend pages with the backend database, ensuring seamless data retrieval and updates.
+-   Achievements:
+    -   Successfully created and merged three pull requests into the main branch within one month.
+### **Pets Of Older Persons project, Front end developer** `2022 Nov – 2023 Feb`
+-   Member in [Pets of Older Persons](https://www.poopswa.org.au) Project
+-   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
+-   Utilised the Figma to design the layout of the mobile version and desktop version.
+-   Collaborated with other student volunteers and familiar with Git version control.
+
+## Professional Program
+
+### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2022`
+
+```
+Australia
+```
+
+## Work Experience
+
+### **Deloitte.  Senior Auditor** `2016 SEP- 2020 APR`
+-   Conducted risk assessments for significant financial statement items, exercising judgment within COSO framework parameters.
+-   Excel expert in resolving data inconsistencies through cleaning, manipulation, and mapping.
+-   Proficiently collaborated and communicated with multifunctional departments to achieve seamless workflow and project success.
+<!-- ### Footer
+Last updated: Feb 2023 -->

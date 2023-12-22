@@ -33,14 +33,14 @@ print format: use --- to separate pages
 
 ## Education
 
-### **University of Western Australia (UWA)** `2021.2 - Present`
+### **University of Western Australia (UWA)** `2021.2 - 2023.11`
 
 ```
 Perth, Australia
 ```
 
 -   Master of Information Technology
--   GPA 6.0/ 7.0
+-   GPA 6.1/ 7.0
 -   Assignments / Projects
     -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
         -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution, Grade: HD
@@ -84,6 +84,20 @@ Australia
 ```
 
 ## Work Experience
+
+### **Xing Fu Tang (Perth), Tea Barista** `2022 Nov- 2023 Aug`
+
+```
+Perth, Australia
+```
+
+
+- Customer Service Expertise: Deliver personalized service, create a welcoming atmosphere, and promptly attend to customer needs.
+
+- Tea Quality Assurance: Brew and serve exceptional teas, manage inventory for freshness, and continually enhance product knowledge.
+
+- Cleanliness & Ambiance: Maintain impeccable cleanliness, ensure a safe and inviting environment for patrons, and follow strict hygiene protocols.
+
 
 ### **Deloitte, Senior Auditor** `2016 Sep- 2020 Apr`
 

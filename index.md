@@ -91,12 +91,11 @@ Australia
 Perth, Australia
 ```
 
+-  Customer Service Expertise: Deliver personalized service, create a welcoming atmosphere, and promptly attend to customer needs.
 
-- Customer Service Expertise: Deliver personalized service, create a welcoming atmosphere, and promptly attend to customer needs.
+-  Tea Quality Assurance: Brew and serve exceptional teas, manage inventory for freshness, and continually enhance product knowledge.
 
-- Tea Quality Assurance: Brew and serve exceptional teas, manage inventory for freshness, and continually enhance product knowledge.
-
-- Cleanliness & Ambiance: Maintain impeccable cleanliness, ensure a safe and inviting environment for patrons, and follow strict hygiene protocols.
+-  Cleanliness & Ambiance: Maintain impeccable cleanliness, ensure a safe and inviting environment for patrons, and follow strict hygiene protocols.
 
 
 ### **Deloitte, Senior Auditor** `2016 Sep- 2020 Apr`

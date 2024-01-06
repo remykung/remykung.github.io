@@ -49,6 +49,17 @@ Perth, Australia
     -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) Grade: HD
     -   COVID Analysis and data clean (Python) Grade: HD
     -   Graph Database & Graph Data Science - Crime in Atlanta (Neo4j, Cypher, and R) Grade: HD
+    -   Cloud-Based IoT Project: Color Recognition Toy for Kids (Arduino (C++) and AWS hosting) Grade: HD
+
+-  SLB Data Science Hackathon
+    -   Prototype Solution Presentation 3rd
+        -   Developed LSTM-based model for mining exploration lithology identification.
+        -   Collaborated on data collection, model development, and presentation.
+        -   Presented solution, improving accuracy in lithology identification.
+    -   Creative Poster at the WA Mining Conference 4th
+        -   Designed impactful poster for WA Mining Conference.
+        -   Presented findings, highlighting the model's benefits in exploration.
+        -   Recognised for innovative approach to exploration challenges.
 
 ### **Feng Chia University** `2016 Jun`
 
@@ -84,19 +95,6 @@ Australia
 ```
 
 ## Work Experience
-
-### **Xing Fu Tang (Perth), Tea Barista** `2022 Nov- 2023 Aug`
-
-```
-Perth, Australia
-```
-
--  Customer Service Expertise: Deliver personalized service, create a welcoming atmosphere, and promptly attend to customer needs.
-
--  Tea Quality Assurance: Brew and serve exceptional teas, manage inventory for freshness, and continually enhance product knowledge.
-
--  Cleanliness & Ambiance: Maintain impeccable cleanliness, ensure a safe and inviting environment for patrons, and follow strict hygiene protocols.
-
 
 ### **Deloitte, Senior Auditor** `2016 Sep- 2020 Apr`
 

@@ -33,7 +33,7 @@ print format: use --- to separate pages
 
 ## Education
 
-### **University of Western Australia (UWA)** `2021.2 - 2023.11`
+### **University of Western Australia (UWA)** `2021.2   - 2023.11`
 
 ```
 Perth, Australia
@@ -43,23 +43,13 @@ Perth, Australia
 -   GPA 6.1/ 7.0
 -   Assignments / Projects
     -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
-        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution, Grade: HD
+        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  `Grade: HD`
 
-    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest and Selenium) Grade: HD
-    -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) Grade: HD
-    -   COVID Analysis and data clean (Python) Grade: HD
-    -   Graph Database & Graph Data Science - Crime in Atlanta (Neo4j, Cypher, and R) Grade: HD
-    -   Cloud-Based IoT Project: Color Recognition Toy for Kids (Arduino (C++) and AWS hosting) Grade: HD
-
--  SLB Data Science Hackathon
-    -   Prototype Solution Presentation 3rd
-        -   Developed LSTM-based model for mining exploration lithology identification.
-        -   Collaborated on data collection, model development, and presentation.
-        -   Presented solution, improving accuracy in lithology identification.
-    -   Creative Poster at the WA Mining Conference 4th
-        -   Designed impactful poster for WA Mining Conference.
-        -   Presented findings, highlighting the model's benefits in exploration.
-        -   Recognised for innovative approach to exploration challenges.
+    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest and Selenium) `Grade: HD`
+    -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) `Grade: HD`
+    -   COVID Analysis and data clean (Python) `Grade: HD`
+    -   Graph Database & Graph Data Science - Crime in Atlanta (Neo4j, Cypher, and R) `Grade: HD`
+    -   Cloud-Based IoT Project: Color Recognition Toy for Kids (Arduino (C++) and AWS hosting) `Grade: HD`
 
 ### **Feng Chia University** `2016 Jun`
 
@@ -71,9 +61,9 @@ Taichung, Taiwan
 -   GPA 3.8/ 4.0
 
 
-## Project Experience - [Coders for Causes](https://codersforcauses.org)
+## Project Experience 
 
-### **[Repair Labs](https://github.com/codersforcauses/repair-labs) Project, Full Stack developer** `2023 Jun – Present`
+### **[Coders for Causes](https://codersforcauses.org)- [Repair Labs](https://github.com/codersforcauses/repair-labs) Project, Full Stack developer** `2023 Jun – Present`
 
 -   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, prisma as ORM, Postgres for local DB and Vercel.
 -   Utilised the Figma to design the layout of the mobile version and desktop version.
@@ -81,7 +71,22 @@ Taichung, Taiwan
 -   Achievements:
     -   Successfully created and merged three pull requests into the main branch within one month.
 
-### **[Pets of Older Persons](https://www.poopswa.org.au) Project, Front end developer** `2022 Nov – 2023 Feb`
+### **SLB Data Science Hackathon** `2023 Sep   - 2023 Oct`
+
+```
+Western Australia
+```
+
+    -   Prototype Solution Presentation `3rd`
+        -   Developed LSTM-based model for mining exploration lithology identification.
+        -   Collaborated on data collection, model development, and presentation.
+        -   Presented solution, improving accuracy in lithology identification.
+    -   Creative Poster at the WA Mining Conference `4th`
+        -   Designed impactful poster for WA Mining Conference.
+        -   Presented findings, highlighting the model's benefits in exploration.
+        -   Recognised for innovative approach to exploration challenges.
+
+### **[Coders for Causes](https://codersforcauses.org)- [Pets of Older Persons](https://www.poopswa.org.au) Project, Front end developer** `2022 Nov – 2023 Feb`
 -   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
 -   Utilised the Figma to design the layout of the mobile version and desktop version.
 -   Collaborated with other student volunteers and familiar with Git version control.

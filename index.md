@@ -72,16 +72,12 @@ Taichung, Taiwan
     -   Successfully created and merged three pull requests into the main branch within one month.
 
 ### **SLB Data Science Hackathon Data Scientist** `2023 Sep   - 2023 Oct`
-
-```
-Western Australia
-```
-
--   Prototype Solution Presentation `3rd`
+-   Selected as one of 30 participants out of 100 applicants across Western Australia
+-   Prototype Solution Presentation `3rd place`
     -   Developed LSTM-based model for mining exploration lithology identification.
     -   Collaborated on data collection, model development, and presentation.
     -   Presented solution, improving accuracy in lithology identification.
--   Creative Poster at the WA Mining Conference `4th`
+-   Creative Poster at the WA Mining Conference `4th place`
     -   Designed impactful poster for WA Mining Conference.
     -   Presented findings, highlighting the model's benefits in exploration.
     -   Recognised for innovative approach to exploration challenges.

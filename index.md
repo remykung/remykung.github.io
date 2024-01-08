@@ -71,7 +71,7 @@ Taichung, Taiwan
 -   Achievements:
     -   Successfully created and merged three pull requests into the main branch within one month.
 
-### **SLB Data Science Hackathon Data Scientist** `2023 Sep   - 2023 Oct`
+### **SLB Data Science Hackathon, Data Scientist** `2023 Sep   - 2023 Oct`
 -   Selected as one of 30 participants out of 100 applicants across Western Australia
 -   Prototype Solution Presentation `3rd place`
     -   Developed LSTM-based model for mining exploration lithology identification.

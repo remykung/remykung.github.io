@@ -71,20 +71,20 @@ Taichung, Taiwan
 -   Achievements:
     -   Successfully created and merged three pull requests into the main branch within one month.
 
-### **SLB Data Science Hackathon** `2023 Sep   - 2023 Oct`
+### **SLB Data Science Hackathon Data Scientist** `2023 Sep   - 2023 Oct`
 
 ```
 Western Australia
 ```
 
-    -   Prototype Solution Presentation `3rd`
-        -   Developed LSTM-based model for mining exploration lithology identification.
-        -   Collaborated on data collection, model development, and presentation.
-        -   Presented solution, improving accuracy in lithology identification.
-    -   Creative Poster at the WA Mining Conference `4th`
-        -   Designed impactful poster for WA Mining Conference.
-        -   Presented findings, highlighting the model's benefits in exploration.
-        -   Recognised for innovative approach to exploration challenges.
+-   Prototype Solution Presentation `3rd`
+    -   Developed LSTM-based model for mining exploration lithology identification.
+    -   Collaborated on data collection, model development, and presentation.
+    -   Presented solution, improving accuracy in lithology identification.
+-   Creative Poster at the WA Mining Conference `4th`
+    -   Designed impactful poster for WA Mining Conference.
+    -   Presented findings, highlighting the model's benefits in exploration.
+    -   Recognised for innovative approach to exploration challenges.
 
 ### **[Coders for Causes](https://codersforcauses.org)- [Pets of Older Persons](https://www.poopswa.org.au) Project, Front end developer** `2022 Nov – 2023 Feb`
 -   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.

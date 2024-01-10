@@ -159,7 +159,7 @@ Taichung, Taiwan
 
 ## Work Experience
 
-### *Xing Fu Tang (Perth), Tea Barista* `2022 Nov- 2023 Aug`
+### **Xing Fu Tang (Perth), Tea Barista** `2022 Nov- 2023 Aug`
 
 ```
 Perth, Australia

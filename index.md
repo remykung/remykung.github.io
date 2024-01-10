@@ -111,23 +111,6 @@ Last updated: Feb 2023 -->
 
 ---
 
----
-layout: cv
-title: YunChuan *Kung*
-email:
-    url: mailto:yunchuan.kung@gmail.com
-    text: yunchuan.kung@gmail.com
-github:
-    url: https://github.com/remykung
-    text: remykung
-linkedin:
-    url: https://www.linkedin.com/in/yun-chuan-kung
-    text: Linkedin
-phone:
-    tel: tel:+61481169598
-    text: 0481169598
----
-
 # YunChuan **Kung**
 
 <!--
@@ -183,9 +166,7 @@ Perth, Australia
 ```
 
 -   Customer Service Expertise: Deliver personalised service, create a welcoming atmosphere, and promptly attend to customer needs.
-
 -   Tea Quality Assurance: Brew and serve exceptional teas, manage inventory for freshness, and continually enhance product knowledge.
-
 -   Cleanliness & Ambiance: Maintain impeccable cleanliness, ensure a safe and inviting environment for patrons, and follow strict hygiene protocols.
 
 
@@ -227,7 +208,7 @@ Taipei, Taiwan
 
 ## Professional Program
 
-### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2022`
+### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2022 Oct`
 
 ```
 Australia
@@ -235,3 +216,4 @@ Australia
 
 <!-- ### Footer
 Last updated: Feb 2023 -->
+

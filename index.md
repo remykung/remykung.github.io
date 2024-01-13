@@ -48,7 +48,7 @@ Perth, Australia
     -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest and Selenium) `Grade: HD`
     -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) `Grade: HD`
     -   COVID Analysis and data clean (Python) `Grade: HD`
-    -   Graph Database & Graph Data Science - Crime in Atlanta (Neo4j, Cypher, and R) `Grade: HD`
+    -   Graph Database & Graph Data Science - Crime in Atlanta dataset (Neo4j, Cypher, and R) `Grade: HD`
     -   Cloud-Based IoT Project: Color Recognition Toy for Kids (Arduino (C++) and AWS hosting) `Grade: HD`
 
 ### **Feng Chia University** `2016 Jun`
@@ -72,6 +72,7 @@ Taichung, Taiwan
     -   Successfully created and merged three pull requests into the main branch within one month.
 
 ### **SLB Data Science Hackathon, Data Scientist** `2023 Sep   - 2023 Oct`
+-   Technology Stack:Python, Jupyter Notebook
 -   Selected as one of 30 participants out of 100 applicants across Western Australia
 -   Prototype Solution Presentation `3rd place`
     -   Developed LSTM-based model for mining exploration lithology identification.

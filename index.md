@@ -107,7 +107,6 @@ Taipei, Taiwan
 -   Expertly conducted risk assessments for key financial statement items within COSO framework parameters, ensuring accuracy and compliance.
 -   Excel expert in resolving data inconsistencies through cleaning, manipulation, and mapping.
 -   Proficiently collaborated and communicated with multifunctional departments to achieve seamless workflow and project success.
--   
 <!-- ### Footer
 Last updated: Feb 2023 -->
 

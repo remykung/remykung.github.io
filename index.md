@@ -252,27 +252,6 @@ Taipei, Taiwan
 -   Skilled in auditing across telecommunications(PCAOB), biotechnology(PCAOB), and semiconductor manufacturing, adeptly adapting to industry-specific regulations and challenges to ensure compliance and operational excellence.
 
 
-## Project Experience 
-
-### **[Coders for Causes](https://codersforcauses.org)- [Repair Labs](https://github.com/codersforcauses/repair-labs) Project, Full Stack developer** `2023 Jun – Present`
-
--   Gained hands-on experience with Next.js, TypeScript, React, Tailwind CSS, Prisma ORM, Postgres, and Vercel, enhancing technical proficiency and understanding of complex IT systems.
--   Applied design principles using Figma to create user-centric layouts for mobile and desktop versions, demonstrating attention to detail and user experience focus.
--   Achievements:
-    -   Demonstrated initiative and efficiency by successfully creating and merging three pull requests into the main branch within one month, reflecting a strong ability to deliver results under tight deadlines.
-
-### **SLB Data Science Hackathon, Data Scientist** `2023 Sep   - 2023 Oct`
--   Selected as one of 30 participants out of 100 applicants across Western Australia
--   Prototype Solution Presentation `3rd place`
-    -   Developed LSTM-based model for mining exploration lithology identification.
-    -   Collaborated on data collection, model development, and presentation.
-    -   Presented solution, improving accuracy in lithology identification.
--   Creative Poster at the WA Mining Conference `4th place`
-    -   Designed impactful poster for WA Mining Conference.
-    -   Presented findings, highlighting the model's benefits in exploration.
-    -   Recognised for innovative approach to exploration challenges.
-
-
 ## Professional Program
 
 ### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2022 Oct`
@@ -307,6 +286,27 @@ Taichung, Taiwan
 
 -   Bachelor of Accounting
 -   GPA 3.8/ 4.0
+
+
+## Project Experience 
+
+### **[Coders for Causes](https://codersforcauses.org)- [Repair Labs](https://github.com/codersforcauses/repair-labs) Project, Full Stack developer** `2023 Jun – Present`
+
+-   Gained hands-on experience with Next.js, TypeScript, React, Tailwind CSS, Prisma ORM, Postgres, and Vercel, enhancing technical proficiency and understanding of complex IT systems.
+-   Applied design principles using Figma to create user-centric layouts for mobile and desktop versions, demonstrating attention to detail and user experience focus.
+-   Achievements:
+    -   Demonstrated initiative and efficiency by successfully creating and merging three pull requests into the main branch within one month, reflecting a strong ability to deliver results under tight deadlines.
+
+### **SLB Data Science Hackathon, Data Scientist** `2023 Sep   - 2023 Oct`
+-   Selected as one of 30 participants out of 100 applicants across Western Australia
+-   Prototype Solution Presentation `3rd place`
+    -   Developed LSTM-based model for mining exploration lithology identification.
+    -   Collaborated on data collection, model development, and presentation.
+    -   Presented solution, improving accuracy in lithology identification.
+-   Creative Poster at the WA Mining Conference `4th place`
+    -   Designed impactful poster for WA Mining Conference.
+    -   Presented findings, highlighting the model's benefits in exploration.
+    -   Recognised for innovative approach to exploration challenges.
 
 
 <!-- ### Footer

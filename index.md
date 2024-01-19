@@ -249,7 +249,7 @@ Taipei, Taiwan
 -   Proficiently collaborated and communicated with multifunctional departments to achieve seamless workflow and project success.
 -   Possessed in-depth knowledge of US GAAP, IFRS, and SOX regulations, applying this expertise to conduct meticulous internal control audits and ensure compliance.
 -   Developed and presented detailed financial reports, providing insightful analysis to evaluate company performance and assess the impact of potential transactions.
--   Skilled in auditing across telecommunications, biotechnology, and semiconductor manufacturing, adeptly adapting to industry-specific regulations and challenges to ensure compliance and operational excellence.
+-   Skilled in auditing across telecommunications(PCAOB), biotechnology(PCAOB), and semiconductor manufacturing, adeptly adapting to industry-specific regulations and challenges to ensure compliance and operational excellence.
 
 
 ## Project Experience 

@@ -218,3 +218,96 @@ Australia
 <!-- ### Footer
 Last updated: Feb 2023 -->
 
+---
+
+# YunChuan **Kung**
+
+<!--
+include contact information from the front matter
+Supported arguments:
+    - homepage: url, text
+    - phone
+    - email
+-->
+
+{% include cv-contact.html %}
+
+<!--
+print format: use --- to separate pages
+-->
+
+## Work Experience
+
+### **Deloitte, Senior Auditor** `2016 Sep- 2020 Apr`
+
+```
+Taipei, Taiwan
+```
+
+-   Expertly conducted comprehensive risk assessments for key financial statement areas, skillfully applying the COSO framework to ensure thorough evaluation and effective judgment.
+-   Excel expert in resolving data inconsistencies through cleaning, manipulation, and mapping.
+-   Proficiently collaborated and communicated with multifunctional departments to achieve seamless workflow and project success.
+-   Possessed in-depth knowledge of US GAAP, IFRS, and SOX regulations, applying this expertise to conduct meticulous internal control audits and ensure compliance.
+-   Developed and presented detailed financial reports, providing insightful analysis to evaluate company performance and assess the impact of potential transactions.
+-   Skilled in auditing across telecommunications, biotechnology, and semiconductor manufacturing, adeptly adapting to industry-specific regulations and challenges to ensure compliance and operational excellence.
+
+
+## Project Experience 
+
+### **[Coders for Causes](https://codersforcauses.org)- [Repair Labs](https://github.com/codersforcauses/repair-labs) Project, Full Stack developer** `2023 Jun – Present`
+
+-   Gained hands-on experience with Next.js, TypeScript, React, Tailwind CSS, Prisma ORM, Postgres, and Vercel, enhancing technical proficiency and understanding of complex IT systems.
+-   Applied design principles using Figma to create user-centric layouts for mobile and desktop versions, demonstrating attention to detail and user experience focus.
+-   Achievements:
+    -   Demonstrated initiative and efficiency by successfully creating and merging three pull requests into the main branch within one month, reflecting a strong ability to deliver results under tight deadlines.
+
+### **SLB Data Science Hackathon, Data Scientist** `2023 Sep   - 2023 Oct`
+-   Selected as one of 30 participants out of 100 applicants across Western Australia
+-   Prototype Solution Presentation `3rd place`
+    -   Developed LSTM-based model for mining exploration lithology identification.
+    -   Collaborated on data collection, model development, and presentation.
+    -   Presented solution, improving accuracy in lithology identification.
+-   Creative Poster at the WA Mining Conference `4th place`
+    -   Designed impactful poster for WA Mining Conference.
+    -   Presented findings, highlighting the model's benefits in exploration.
+    -   Recognised for innovative approach to exploration challenges.
+
+
+## Professional Program
+
+### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2022 Oct`
+
+```
+Australia
+```
+
+## Education
+
+### **University of Western Australia (UWA)** `2021.2   - 2023.11`
+
+```
+Perth, Australia
+```
+
+-   Master of Information Technology
+-   GPA 6.1/ 7.0
+-   Assignments / Projects
+    -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
+        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  `Grade: HD`
+    -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) `Grade: HD`
+    -   COVID Analysis and data clean (Python) `Grade: HD`
+    -   Graph Database & Graph Data Science - Crime in Atlanta (Neo4j, Cypher, and R) `Grade: HD`
+    -   Cloud-Based IoT Project: Color Recognition Toy for Kids (Arduino (C++) and AWS hosting) `Grade: HD`
+
+### **Feng Chia University** `2016 Jun`
+
+```
+Taichung, Taiwan
+```
+
+-   Bachelor of Accounting
+-   GPA 3.8/ 4.0
+
+
+<!-- ### Footer
+Last updated: Feb 2023 -->

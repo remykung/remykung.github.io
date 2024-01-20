@@ -311,3 +311,97 @@ Taichung, Taiwan
 
 <!-- ### Footer
 Last updated: Feb 2023 -->
+
+
+---
+
+# YunChuan **Kung**
+
+<!--
+include contact information from the front matter
+Supported arguments:
+    - homepage: url, text
+    - phone
+    - email
+-->
+
+{% include cv-contact.html %}
+
+<!--
+print format: use --- to separate pages
+-->
+
+## Objective
+
+A detail-oriented and adaptable professional with extensive experience in auditing and IT, I am seeking to leverage my strong organizational, communication, and client service skills in a Receptionist/Assistant role. Skilled in managing complex data, facilitating interdepartmental collaboration, and delivering high-quality client service, I am eager to contribute to Company's success.
+
+
+## Work Experience
+
+### **Deloitte, Senior Auditor** `2016 Sep- 2020 Apr`
+
+```
+Taipei, Taiwan
+```
+
+-   Excelled in client communication and interdepartmental collaboration, ensuring seamless workflow and project success.
+-   Managed complex data and presented financial reports using Microsoft Excel, demonstrating keen attention to detail and organizational skills.
+-   Adapted to diverse industry requirements, showcasing flexibility and a quick learning ability.
+
+
+## Professional Program
+
+### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2022 Oct`
+
+```
+Australia
+```
+
+## Education
+
+### **University of Western Australia (UWA)** `2021.2   - 2023.11`
+
+```
+Perth, Australia
+```
+
+-   Master of Information Technology
+-   GPA 6.1/ 7.0
+-   Relevant Coursework: Project management, Data Warehousing, Exploratory Data Analysis, Cloud-Based IoT Projects emphasizing teamwork, problem-solving, and technical communication.
+
+### **Feng Chia University** `2016 Jun`
+
+```
+Taichung, Taiwan
+```
+
+-   Bachelor of Accounting
+-   GPA 3.8/ 4.0
+
+
+## Project Experience 
+
+### **[Coders for Causes](https://codersforcauses.org)- [Repair Labs](https://github.com/codersforcauses/repair-labs) Project, Full Stack developer** `2023 Jun – Present`
+
+-   Engaged in client-focused project development, enhancing user experience and interface design.
+-   Demonstrated strong problem-solving skills and efficiency in project delivery under tight deadlines.
+
+### **SLB Data Science Hackathon, Data Scientist** `2023 Sep   - 2023 Oct`
+-   Selected as one of 30 participants out of 100 applicants across Western Australia
+-   Collaborated on a team to develop innovative solutions, demonstrating teamwork and effective communication.
+-   Presented findings to diverse audiences on WA mining conference, honing presentation and interpersonal skills.
+
+## Computer and Technical Skills
+
+-   Microsoft Office Suite: Proficient in Word, Excel, PowerPoint, and Outlook for document creation, data management, presentation preparation, and email communication.
+-   Google Workspace: Skilled in using Google Docs, Sheets, Slides, and Gmail for collaborative work and communication.
+-   Data Entry: Fast and accurate typing, experienced in managing and organizing data.
+-   Communication Tools: Experienced with Zoom, Microsoft Teams, and Slack for virtual meetings and team collaboration.
+-   File Management: Competent in organizing digital files and using cloud storage solutions like Dropbox and OneDrive.
+-   Basic IT Troubleshooting: Knowledgeable in resolving common computer and printer issues.
+-   Project Management Tools: Familiar with tools like Trello and Excel sheet for task and project management.
+
+## References
+Available upon request.
+<!-- ### Footer
+Last updated: Feb 2023 -->

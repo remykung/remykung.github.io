@@ -178,14 +178,19 @@ h2 {
   margin-bottom: 0.5em;
   width: 100%;
 }
+
 h2:after {
   border-bottom: 1.7px dashed #d3d3d3;
 }
+
+/*
+h2:after {
+  border-bottom: 1.7px dashed #d3d3d3;
   /* height: 0.8em; */
   /*margin-left: 10px;
   content: "";
   flex: 1;
-} 
+} */
 
 h3 strong {
   line-height: 2.5em;
@@ -206,7 +211,7 @@ li:before {
   position: relative;
   left: -0.5em;
 }
-*/
+
 li {
   /*second line indent*/
   padding-left: 2.25em;

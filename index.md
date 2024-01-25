@@ -14,22 +14,12 @@ phone:
     tel: tel:+61481169598
     text: 0481169598
 ---
-
+<!--
 # YunChuan **Kung**
 
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
 
 {% include cv-contact.html %}
 
-<!--
-print format: use --- to separate pages
--->
 
 ## Education
 
@@ -106,26 +96,14 @@ Taipei, Taiwan
 -   Expertly conducted risk assessments for key financial statement items within COSO framework parameters, ensuring accuracy and compliance.
 -   Excel expert in resolving data inconsistencies through cleaning, manipulation, and mapping.
 -   Proficiently collaborated and communicated with multifunctional departments to achieve seamless workflow and project success.
-<!-- ### Footer
-Last updated: Feb 2023 -->
 
 ---
 
 # YunChuan **Kung**
 
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
 
 {% include cv-contact.html %}
 
-<!--
-print format: use --- to separate pages
--->
 
 ## Education
 
@@ -213,26 +191,13 @@ Taipei, Taiwan
 Australia
 ```
 
-<!-- ### Footer
-Last updated: Feb 2023 -->
-
 ---
 
 # YunChuan **Kung**
 
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
 
 {% include cv-contact.html %}
 
-<!--
-print format: use --- to separate pages
--->
 
 ## Work Experience
 
@@ -307,28 +272,13 @@ Taichung, Taiwan
     -   Presented findings, highlighting the model's benefits in exploration.
     -   Recognised for innovative approach to exploration challenges.
 
-
-<!-- ### Footer
-Last updated: Feb 2023 -->
-
-
 ---
 
 # YunChuan **Kung**
 
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
 
 {% include cv-contact.html %}
 
-<!--
-print format: use --- to separate pages
--->
 
 ## Objective
 
@@ -402,8 +352,7 @@ Taichung, Taiwan
 
 ## References
 Available upon request.
-<!-- ### Footer
-Last updated: Feb 2023 -->
+-->
 
 ---
 
@@ -484,7 +433,7 @@ Taichung, Taiwan
 -   Programming & Database Languages: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
 -   Front End Web Development: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
 -   UX prototyping tools: Figma
--   Web Framework / Libraries: React, Next.JS, Django, Vue, Flask, .NET (C#)
+-   Web Framework / Libraries: React, Next.JS, Django, Vue, Flask
 -   Version Control Systems & CI/CD Tools: Git, GitHub, GitLab
 -   Cloud Computing Platforms: AWS, Firebase
 -   Low-code/No-code Development Platform: WordPress, Wix
@@ -531,6 +480,9 @@ Australia
 ```
 Australia
 ```
+
+## References
+Available upon request.
 
 
 

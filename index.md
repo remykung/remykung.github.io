@@ -41,15 +41,14 @@ Perth, Australia
 
 -   Master of Information Technology
 -   GPA 6.1/ 7.0
--   Assignments / Projects
+-   Projects
     -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
-        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  `Grade: HD`
-
-    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest and Selenium) `Grade: HD`
-    -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) `Grade: HD`
-    -   COVID Analysis and data clean (Python) `Grade: HD`
-    -   Graph Database & Graph Data Science - Crime in Atlanta dataset (Neo4j, Cypher, and R) `Grade: HD`
-    -   Cloud-Based IoT Project: Color Recognition Toy for Kids (Arduino (C++) and AWS hosting) `Grade: HD`
+        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  `HD & Top1 project`
+    -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) `HD & Top1 project`
+    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest and Selenium) `HD & Top3 project`
+    -   Graph Database & Graph Data Science - Crime in Atlanta dataset (Neo4j, Cypher, and R) `HD & Top4 project`
+    -   Cloud-Based IoT Project: Color Recognition Toy for Kids (Arduino (C++) and AWS hosting) `HD`
+    -   COVID Analysis and data clean (Python) `HD`
 
 ### **Feng Chia University** `2016 Jun`
 
@@ -138,15 +137,14 @@ Perth, Australia
 
 -   Master of Information Technology
 -   GPA 6.1/ 7.0
--   Assignments / Projects
+-   Projects
     -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
-        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  `Grade: HD`
-
-    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest and Selenium) `Grade: HD`
-    -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) `Grade: HD`
-    -   COVID Analysis and data clean (Python) `Grade: HD`
-    -   Graph Database & Graph Data Science - Crime in Atlanta (Neo4j, Cypher, and R) `Grade: HD`
-    -   Cloud-Based IoT Project: Color Recognition Toy for Kids (Arduino (C++) and AWS hosting) `Grade: HD`
+        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  `HD & Top1 project`
+    -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) `HD & Top1 project`
+    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest and Selenium) `HD & Top3 project`
+    -   Graph Database & Graph Data Science - Crime in Atlanta dataset (Neo4j, Cypher, and R) `HD & Top4 project`
+    -   Cloud-Based IoT Project: Color Recognition Toy for Kids (Arduino (C++) and AWS hosting) `HD`
+    -   COVID Analysis and data clean (Python) `HD`
 
 ### **Feng Chia University** `2016 Jun`
 
@@ -270,13 +268,14 @@ Perth, Australia
 
 -   Master of Information Technology
 -   GPA 6.1/ 7.0
--   Assignments / Projects
+-   Projects
     -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
-        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  `Grade: HD`
-    -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) `Grade: HD`
-    -   COVID Analysis and data clean (Python) `Grade: HD`
-    -   Graph Database & Graph Data Science - Crime in Atlanta (Neo4j, Cypher, and R) `Grade: HD`
-    -   Cloud-Based IoT Project: Color Recognition Toy for Kids (Arduino (C++) and AWS hosting) `Grade: HD`
+        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  `HD & Top1 project`
+    -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) `HD & Top1 project`
+    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest and Selenium) `HD & Top3 project`
+    -   Graph Database & Graph Data Science - Crime in Atlanta dataset (Neo4j, Cypher, and R) `HD & Top4 project`
+    -   Cloud-Based IoT Project: Color Recognition Toy for Kids (Arduino (C++) and AWS hosting) `HD`
+    -   COVID Analysis and data clean (Python) `HD`
 
 ### **Feng Chia University** `2016 Jun`
 
@@ -490,7 +489,7 @@ Taichung, Taiwan
 -   Cloud Computing Platforms: AWS, Firebase
 -   Low-code/No-code Development Platform: WordPress, Wix
 -   Command-Line Interpreter: Windows PowerShell, Git Bash
--   Applications: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI
+-   Applications: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ERP
 
 ## Work Experience
 
@@ -525,13 +524,15 @@ Taipei, Taiwan
 Australia
 ```
 
-## Scholarship
+## Honors & Awards
 
-### **Global Excellence Scholarship** `2021 - 2023`
+### **UWA Global Excellence Scholarship** `2021 - 2023`
 
 ```
 Australia
 ```
+
+
 
 <!-- ### Footer
 Last updated: Feb 2023 -->

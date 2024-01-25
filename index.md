@@ -33,7 +33,7 @@ print format: use --- to separate pages
 
 ## Education
 
-### **University of Western Australia (UWA)** `2021.2   - 2023.11`
+### **University of Western Australia (UWA)** `2021 Feb - 2023 Nov`
 
 ```
 Perth, Australia
@@ -130,7 +130,7 @@ print format: use --- to separate pages
 
 ## Education
 
-### **University of Western Australia (UWA)** `2021.2   - 2023.11`
+### **University of Western Australia (UWA)** `2021 Feb - 2023 Nov`
 
 ```
 Perth, Australia
@@ -262,7 +262,7 @@ Australia
 
 ## Education
 
-### **University of Western Australia (UWA)** `2021.2   - 2023.11`
+### **University of Western Australia (UWA)** `2021 Feb - 2023 Nov`
 
 ```
 Perth, Australia
@@ -359,7 +359,7 @@ Australia
 
 ## Education
 
-### **University of Western Australia (UWA)** `2021.2   - 2023.11`
+### **University of Western Australia (UWA)** `2021 Feb - 2023 Nov`
 
 ```
 Perth, Australia
@@ -426,7 +426,7 @@ print format: use --- to separate pages
 
 ## Education
 
-### **University of Western Australia (UWA)** `2021.2   - 2023.11`
+### **University of Western Australia (UWA)** `2021 Feb - 2023 Nov`
 
 ```
 Perth, Australia

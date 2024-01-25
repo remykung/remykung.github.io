@@ -383,10 +383,10 @@ Perth, Australia
 -   Master of Information Technology
 -   GPA 6.1/ 7.0
 -   Projects
-    -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
-        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  `HD & Top1 project`
-    -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) `HD & Top1 project`
-    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest and Selenium) `HD & Top3 project`
+    -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI) `HD & Top1 project`
+        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  
+    -   Exploratory data analysis and Machine learning models (Classification and Clustering in R) `HD & Top1 project`
+    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest) `HD & Top3 project`
     -   Graph Database & Graph Data Science - Crime in Atlanta dataset (Neo4j, Cypher, and R) `HD & Top4 project`
     -   Cloud-Based IoT Project: Color Recognition Toy for Kids (Arduino (C++) and AWS hosting) `HD`
     -   COVID Analysis and data clean (Python) `HD`

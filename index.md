@@ -437,7 +437,6 @@ Perth, Australia
 -   Projects
     -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
         -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  `Grade: HD`
-
     -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest and Selenium) `Grade: HD`
     -   Exploratory data analysis and Machine learning models (Classification and Clustering) for US Accident Injury (R) `Grade: HD`
     -   COVID Analysis and data clean (Python) `Grade: HD`

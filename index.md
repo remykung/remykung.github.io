@@ -428,6 +428,8 @@ Taichung, Taiwan
 -   Utilised the Figma to design the layout of the mobile version and desktop version.
 -   Collaborated with other student volunteers and familiar with Git version control.
 
+---
+
 ## Programming Languages And Tools
 
 -   Programming & Database Languages: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
@@ -455,7 +457,7 @@ Perth, Australia
 -  Worked closely with the non-profit team to align marketing plans with organizational goals, contributing to a marked improvement in market positioning and community impact.
 
 
-### **Deloitte, Senior Auditor** `2016 Sep- 2020 Apr`
+### **Deloitte, Senior Auditor** `2016 Sep - 2020 Apr`
 
 ```
 Taipei, Taiwan

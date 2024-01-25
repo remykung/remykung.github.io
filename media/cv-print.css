@@ -167,9 +167,9 @@ h1 strong {
 }
 
 /* Section headers */
-h2 strong {
+h2 {
   font-family: "Avenir Next", sans-serif;
-  font-size: 18px;
+  font-size: 300px;
   text-align: center;
   font-weight: normal;
   display: flex;

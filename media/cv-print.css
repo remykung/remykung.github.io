@@ -129,7 +129,7 @@ table {
 
 body {
   font: normal normal 400;
-  font-size: 15px;
+  font-size: 12px;
   line-height: 1.5em;
   /*also written as...  font: normal normal 400 100%/1.5em;*/
   font-family: "Helvetica", sans-serif;
@@ -153,7 +153,7 @@ em {
 h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: lighter;
   position: relative;
   line-height: 1em;
@@ -178,13 +178,14 @@ h2 {
   margin-bottom: 0.5em;
   width: 100%;
 }
-/* h2:after {
+h2:after {
   border-bottom: 1.7px dashed #d3d3d3;
+}
   /* height: 0.8em; */
   /*margin-left: 10px;
   content: "";
   flex: 1;
-}*/
+} 
 
 h3 strong {
   line-height: 2.5em;
@@ -205,7 +206,7 @@ li:before {
   position: relative;
   left: -0.5em;
 }
-
+*/
 li {
   /*second line indent*/
   padding-left: 2.25em;

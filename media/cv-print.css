@@ -132,7 +132,7 @@ table {
 
 body {
   font: normal normal 400;
-  font-size: 11pt;
+  font-size: 10pt;
   line-height: 1.5em;
   /*also written as...  font: normal normal 400 100%/1.5em;*/
   font-family: "Helvetica", sans-serif;
@@ -156,7 +156,7 @@ em {
 h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
-  font-size: 28pt;
+  font-size: 26pt;
   font-weight: lighter;
   position: relative;
   line-height: 1em;
@@ -172,7 +172,7 @@ h1 strong {
 /* Section headers */
 h2 {
   font-family: "Avenir Next", sans-serif;
-  font-size: 20pt;
+  font-size: 18pt;
   text-align: center;
   font-weight: normal;
   display: flex;
@@ -194,7 +194,7 @@ h3 strong {
 }
 
 h3 {
-  margin-top: 10px;
+  margin-top: 9px;
 }
 
 code {
@@ -217,7 +217,7 @@ li {
 }
 
 #contact-info {
-  font-size: 8pt;
+  font-size: 7.5pt;
   text-align: center;
   position: relative;
   font-weight: lighter;

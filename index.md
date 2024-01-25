@@ -434,7 +434,7 @@ Perth, Australia
 
 -   Master of Information Technology
 -   GPA 6.1/ 7.0
--   Assignments / Projects
+-   Projects
     -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI)
         -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  `Grade: HD`
 
@@ -481,17 +481,21 @@ Taichung, Taiwan
 -   Utilised the Figma to design the layout of the mobile version and desktop version.
 -   Collaborated with other student volunteers and familiar with Git version control.
 
-## Professional Program
+## Programming Languages And Tools
 
-### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2022`
-
-```
-Australia
-```
+-   Programming & Database Languages: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
+-   Front End Web Development: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
+-   UX prototyping tools: Figma
+-   Web Framework / Libraries: React, Next.JS, Django, Vue, Flask, .NET (C#)
+-   Version Control Systems & CI/CD Tools: Git, GitHub, GitLab
+-   Cloud Computing Platforms: AWS, Firebase
+-   Low-code/No-code Development Platform: WordPress, Wix
+-   Command-Line Interpreter: Windows PowerShell, Git Bash
+-   Applications: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI
 
 ## Work Experience
 
-### **SisterWorks, Business consultant** `2022 Jul - 2022 Aug`
+### **SisterWorks, Business IT consultant** `2022 Jul - 2022 Aug`
 
 ```
 Perth, Australia
@@ -513,5 +517,22 @@ Taipei, Taiwan
 -   Expertly conducted risk assessments for key financial statement items within COSO framework parameters, ensuring accuracy and compliance.
 -   Excel expert in resolving data inconsistencies through cleaning, manipulation, and mapping.
 -   Proficiently collaborated and communicated with multifunctional departments to achieve seamless workflow and project success.
+
+## Professional Program
+
+### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2022`
+
+```
+Australia
+```
+
+## Scholarship
+
+### **Global Excellence Scholarship** `2021 - 2023`
+
+```
+Australia
+```
+
 <!-- ### Footer
 Last updated: Feb 2023 -->

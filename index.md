@@ -337,15 +337,15 @@ Taichung, Taiwan
 
 ## Programming Languages And Tools
 
--   Programming & Database Languages: Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
--   Front End Web Development: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
--   UX prototyping tools: Figma
--   Web Framework / Libraries: React, Next.JS, Django, Vue, Flask
--   Version Control Systems & CI/CD Tools: Git, GitHub, GitLab
--   Cloud Computing Platforms: AWS, Firebase
--   Low-code/No-code Development Platform: WordPress, Wix
--   Command-Line Interpreter: Windows PowerShell, Git Bash
--   Applications: ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ERP
+-   **Programming & Database Languages:** Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
+-   **Front End Web Development:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
+-   **UX prototyping tools:** Figma
+-   **Web Framework / Libraries:** React, Next.JS, Django, Vue, Flask
+-   **Version Control Systems & CI/CD Tools:** Git, GitHub, GitLab
+-   **Cloud Computing Platforms:** AWS, Firebase
+-   **Low-code/No-code Development Platform:** WordPress, Wix
+-   **Command-Line Interpreter:** Windows PowerShell, Git Bash
+-   **Applications:** ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ERP
 
 ## Work Experience
 

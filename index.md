@@ -495,6 +495,7 @@ Taichung, Taiwan
 -   Selected as one of 30 participants out of 100 applicants across Western Australia
 -   Prototype Solution Presentation `3rd place`
     -   Developed LSTM-based model for mining exploration lithology identification.
+    -   Developed ETL processes and feature engineering.
     -   Collaborated on data collection, model development, and presentation.
     -   Presented solution, improving accuracy in lithology identification.
 -   Creative Poster at the WA Mining Conference `4th place`

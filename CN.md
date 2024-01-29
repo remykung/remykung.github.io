@@ -43,7 +43,7 @@ print format: use --- to separate pages
 
 ### **Deloitte，高級審計師** `2016/9 - 2020/4`
 
-- 熟練進行關鍵財務報表領域的全面風險評估，巧妙應用COSO框架以確保徹底評估和有效判斷。
+- 熟練進行關鍵財務報表領域的全面風險評估，應用COSO框架以確保徹底評估和有效判斷。
 - 專家級別在解決數據不一致性方面的Excel技能，包括數據清理、操作和映射。
 - 與多功能部門有效合作和溝通，實現順暢的工作流程和項目成功。
 - 對US GAAP、IFRS和SOX法規有深入了解，應用此專業知識進行嚴謹的內部控制審計，以確保合規。
@@ -96,6 +96,17 @@ print format: use --- to separate pages
     - 為WA礦業會議設計有影響力的海報。
     - 展示發現，突出模型在探勘中的好處。
     - 因創新方法應對探勘挑戰而獲得認可。
+
+## 程式語言和工具
+- 編程和數據庫語言： Python、Java、Javascript、TypeScript、R、Shell腳本、C、SQLite、MySQL、Cypher Neo4j。
+- 前端網頁開發： HTML、CSS、Tailwind CSS、Bootstrap、JavaScript、TypeScript
+- 用戶體驗原型工具： Figma
+- 網絡框架/庫： React、Next.JS、Django、Vue、Flask
+- 版本控制系統和CI/CD工具： Git、GitHub、GitLab
+- 雲計算平台： AWS、Firebase
+- 低代碼/無代碼開發平台： WordPress、Wix
+- 命令行解釋器： Windows PowerShell、Git Bash
+- 應用程序： ChatGPT API、Neo4j、SSMS、SSAS、SAS、Google分析、Power BI、ERP
 
 ## 榮譽與獎項
 

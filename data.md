@@ -41,6 +41,7 @@ Perth, Australia
 
 -   Master of Information Technology
 -   GPA 6.1/ 7.0
+-   Honors & Awards: UWA Global Excellence Scholarship
 -   Projects
     -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI) `HD & Top1 project`
         -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  
@@ -94,20 +95,6 @@ Taichung, Taiwan
 -   Utilised the Figma to design the layout of the mobile version and desktop version.
 -   Collaborated with other student volunteers and familiar with Git version control.
 
----
-
-## Programming Languages And Tools
-
--   **Programming & Database Languages:** Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
--   **Front End Web Development:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
--   **UX prototyping tools:** Figma
--   **Web Framework / Libraries:** React, Next.JS, Django, Vue, Flask
--   **Version Control Systems & CI/CD Tools:** Git, GitHub, GitLab
--   **Cloud Computing Platforms:** AWS, Firebase
--   **Low-code/No-code Development Platform:** WordPress, Wix
--   **Command-Line Interpreter:** Windows PowerShell, Git Bash
--   **Applications:** ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ERP
-
 ## Work Experience
 
 ### **SisterWorks, Business IT consultant** `2022 Jul - 2022 Aug`
@@ -133,17 +120,21 @@ Taipei, Taiwan
 -   Excel expert in resolving data inconsistencies through cleaning, manipulation, and mapping.
 -   Proficiently collaborated and communicated with multifunctional departments to achieve seamless workflow and project success.
 
+## Programming Languages And Tools
+
+-   **Programming & Database Languages:** Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
+-   **Front End Web Development:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
+-   **UX prototyping tools:** Figma
+-   **Web Framework / Libraries:** React, Next.JS, Django, Vue, Flask
+-   **Version Control Systems & CI/CD Tools:** Git, GitHub, GitLab
+-   **Cloud Computing Platforms:** AWS, Firebase
+-   **Low-code/No-code Development Platform:** WordPress, Wix
+-   **Command-Line Interpreter:** Windows PowerShell, Git Bash
+-   **Applications:** ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ERP
+
 ## Professional Program
 
 ### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2022`
-
-```
-Australia
-```
-
-## Honors & Awards
-
-### **UWA Global Excellence Scholarship** `2021 - 2023`
 
 ```
 Australia

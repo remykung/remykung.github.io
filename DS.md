@@ -22,6 +22,35 @@ phone:
 <!--
 print format: use --- to separate pages
 -->
+## Education
+
+### **University of Western Australia (UWA)** `2021 Feb - 2023 Nov`
+
+```
+Perth, Australia
+```
+
+-   Master of Information Technology
+-   GPA 6.1/ 7.0
+-   Honors & Awards: UWA Global Excellence Scholarship
+-   Projects
+    -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI) `HD & Top1 project`
+        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  
+    -   Exploratory data analysis and Machine learning models (Classification and Clustering in R) `HD & Top1 project`
+    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest) `HD & Top3 project`
+    -   Graph Database & Graph Data Science - Crime in Atlanta dataset (Neo4j, Cypher, and R) `HD & Top4 project`
+    -   Cloud-Based IoT Project: Color Recognition Toy for Kids (Arduino (C++) and AWS hosting) `HD`
+    -   COVID Analysis and data clean (Python) `HD`
+
+### **Feng Chia University** `2016 Jun`
+
+```
+Taichung, Taiwan
+```
+
+-   Bachelor of Accounting
+-   GPA 3.8/ 4.0
+
 
 ## Work Experience
 
@@ -82,35 +111,6 @@ Taipei, Taiwan
 -   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
 -   Utilised the Figma to design the layout of the mobile version and desktop version.
 -   Collaborated with other student volunteers and familiar with Git version control.
-
-## Education
-
-### **University of Western Australia (UWA)** `2021 Feb - 2023 Nov`
-
-```
-Perth, Australia
-```
-
--   Master of Information Technology
--   GPA 6.1/ 7.0
--   Honors & Awards: UWA Global Excellence Scholarship
--   Projects
-    -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI) `HD & Top1 project`
-        -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  
-    -   Exploratory data analysis and Machine learning models (Classification and Clustering in R) `HD & Top1 project`
-    -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest) `HD & Top3 project`
-    -   Graph Database & Graph Data Science - Crime in Atlanta dataset (Neo4j, Cypher, and R) `HD & Top4 project`
-    -   Cloud-Based IoT Project: Color Recognition Toy for Kids (Arduino (C++) and AWS hosting) `HD`
-    -   COVID Analysis and data clean (Python) `HD`
-
-### **Feng Chia University** `2016 Jun`
-
-```
-Taichung, Taiwan
-```
-
--   Bachelor of Accounting
--   GPA 3.8/ 4.0
 
 ## Programming Languages And Tools
 

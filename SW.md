@@ -65,21 +65,21 @@ Taichung, Taiwan
 
 ### **[Coders for Causes](https://codersforcauses.org)- [Repair Labs](https://github.com/codersforcauses/repair-labs) Project, Full Stack developer** `2023 Jun – Present`
 
--   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, prisma as ORM, Postgres for local DB and Vercel.
--   Utilised the Figma to design the layout of the mobile version and desktop version.
--   Built robust APIs to connect frontend pages with the backend database, ensuring seamless data retrieval and updates.
+-   Tech Stack: Next.js, TypeScript, React, Tailwind CSS, prisma as ORM, Postgres for local DB and Vercel. Designed UI/UX with Figma for mobile and desktop.
+-   Design and implementation of responsive web interfaces and robust backend APIs, ensuring optimal performance and user experience.
+-   Efficiently merged three significant pull requests within one month, demonstrating strong teamwork and agile development practices.
 -   Achievements:
     -   Successfully created and merged three pull requests into the main branch within one month.
 
 ### **Large Language Model- Triple Generation Project, Application developer** `2023 July - 2023 Nov`
 
-- Technology Stack: Python, React, GPT3.5 Turbo
+- Tech Stack: Python, React, GPT3.5 Turbo
 - Led the development of an NLP system to transform unstructured text into knowledge graphs, specifically for university course data.
 - Implemented a React-based interface for easy URL inputs and visualization of the knowledge graph outputs.
 - Integrated GPT-3.5 Turbo to enhance text analysis capabilities, significantly improving the system's accuracy in generating triples.
 
 ### **SLB Data Science Hackathon, Data Scientist** `2023 Sep - 2023 Oct`
--   Technology Stack:Python, Jupyter Notebook
+-   Tech Stack:Python, Jupyter Notebook
 -   Selected as one of 30 participants out of 100 applicants across Western Australia
 -   Prototype Solution Presentation `3rd place`
     -   Developed LSTM-based model for mining exploration lithology identification.
@@ -90,8 +90,8 @@ Taichung, Taiwan
     -   Presented findings, highlighting the model's benefits in exploration.
     -   Recognised for innovative approach to exploration challenges.
 
-### **[Coders for Causes](https://codersforcauses.org)- [Pets of Older Persons](https://www.poopswa.org.au) Project, Front end developer** `2022 Nov – 2023 Feb`
--   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
+### **[Coders for Causes](https://codersforcauses.org)- [Pets of Older Persons](https://www.poopswa.org.au) Project, Frontend developer** `2022 Nov – 2023 Feb`
+-   Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase and Vercel.
 -   Utilised the Figma to design the layout of the mobile version and desktop version.
 -   Collaborated with other student volunteers and familiar with Git version control.
 
@@ -125,12 +125,12 @@ Taipei, Taiwan
 -   **Programming & Database Languages:** Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
 -   **Front End Web Development:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
 -   **UX prototyping tools:** Figma
--   **Web Framework / Libraries:** React, Next.JS, Django, Vue, Flask
+-   **Web Framework / Libraries:** Angular, React, Next.JS, Django, Vue, Flask
 -   **Version Control Systems & CI/CD Tools:** Git, GitHub, GitLab
 -   **Cloud Computing Platforms:** AWS, Firebase
--   **Low-code/No-code Development Platform:** WordPress, Wix
+-   **Low-code/No-code Development Platform:** WordPress
 -   **Command-Line Interpreter:** Windows PowerShell, Git Bash
--   **Applications:** ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ERP
+-   **Applications:** ChatGPT API, Neo4j, SSMS, SSAS, SAS, Power BI, ERP
 
 ## Professional Program
 

@@ -68,8 +68,6 @@ Taichung, Taiwan
 -   Tech Stack: Next.js, TypeScript, React, Tailwind CSS, prisma as ORM, Postgres for local DB and Vercel. Designed UI/UX with Figma for mobile and desktop.
 -   Design and implementation of responsive web interfaces and robust backend APIs, ensuring optimal performance and user experience.
 -   Efficiently merged three significant pull requests within one month, demonstrating strong teamwork and agile development practices.
--   Achievements:
-    -   Successfully created and merged three pull requests into the main branch within one month.
 
 ### **Large Language Model- Triple Generation Project, Application developer** `2023 July - 2023 Nov`
 
@@ -83,6 +81,7 @@ Taichung, Taiwan
 -   Selected as one of 30 participants out of 100 applicants across Western Australia
 -   Prototype Solution Presentation `3rd place`
     -   Developed LSTM-based model for mining exploration lithology identification.
+    -   Developed ETL processes and feature engineering.
     -   Collaborated on data collection, model development, and presentation.
     -   Presented solution, improving accuracy in lithology identification.
 -   Creative Poster at the WA Mining Conference `4th place`
@@ -130,7 +129,7 @@ Taipei, Taiwan
 -   **Cloud Computing Platforms:** AWS, Firebase
 -   **Low-code/No-code Development Platform:** WordPress
 -   **Command-Line Interpreter:** Windows PowerShell, Git Bash
--   **Applications:** ChatGPT API, Neo4j, SSMS, SSAS, SAS, Power BI, ERP
+-   **Applications:** ChatGPT API, Neo4j, SSMS, SSAS, SAS, Power BI, ERP, EXCEL
 
 ## Professional Program
 

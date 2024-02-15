@@ -22,6 +22,10 @@ phone:
 <!--
 print format: use --- to separate pages
 -->
+
+## Objective
+Eager and process-driven Junior Analyst with a strong foundation in data analysis and reporting, as demonstrated through a Master of Information Technology and hands-on project experience. Proficient in Excel, Power BI, and SQL, with a proven track record of delivering accurate and insightful data-driven analyses. Seeking to leverage my analytical skills and passion for data to contribute to the Customer Engagement team at Seven West Media, aiming to support sales and marketing efforts through meaningful insights.
+
 ## Education
 
 ### **University of Western Australia (UWA)** `2021 Feb - 2023 Nov`
@@ -33,9 +37,11 @@ Perth, Australia
 -   Master of Information Technology
 -   GPA 6.1/ 7.0
 -   Honors & Awards: UWA Global Excellence Scholarship
--   Projects
-    -   Data Warehousing & Association Rule Mining – Crime in Atlanta (R, SQL, SSMS and Power BI) `HD & Top1 project`
+-   Relevant Projects:
+    - **Business Analytical Report - BMW car sales**: Utilized Power BI and R for sales data analysis, demonstrating advanced data manipulation and reporting skills.
+    - **Data Warehousing & Association Rule Mining**: Conducted comprehensive sales and supply analysis using R, SQL, SSMS, and Power BI, showcasing the ability to generate accurate outputs and identify trends.
         -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution  
+-    Other Projects:
     -   Exploratory data analysis and Machine learning models (Classification and Clustering in R) `HD & Top1 project`
     -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest) `HD & Top3 project`
     -   Graph Database & Graph Data Science - Crime in Atlanta dataset (Neo4j, Cypher, and R) `HD & Top4 project`
@@ -114,15 +120,10 @@ Taipei, Taiwan
 
 ## Programming Languages And Tools
 
--   **Programming & Database Languages:** Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
--   **Front End Web Development:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript
--   **UX prototyping tools:** Figma
--   **Web Framework / Libraries:** React, Next.JS, Django, Vue, Flask
--   **Version Control Systems & CI/CD Tools:** Git, GitHub, GitLab
--   **Cloud Computing Platforms:** AWS, Firebase
--   **Low-code/No-code Development Platform:** WordPress, Wix
--   **Command-Line Interpreter:** Windows PowerShell, Git Bash
--   **Applications:** ChatGPT API, Neo4j, SSMS, SSAS, SAS, Google Analytics, Power BI, ERP
+- **Data Analysis & Reporting**: Proficient in Excel, Power BI, and SQL with extensive experience in data manipulation, trend analysis, and generating actionable insights.
+- **Programming Languages**: Python, R, SQL, JavaScript, TypeScript.
+- **Tools & Technologies**: SSMS, Neo4j, AWS, Git, GitHub.
+- **Soft Skills**: Strong time management, impeccable attention to detail, excellent communication skills, and ability to collaborate effectively across teams.
 
 ## Professional Program
 

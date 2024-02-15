@@ -38,11 +38,13 @@ Perth, Australia
 -   GPA 6.1/ 7.0
 -   Honors & Awards: UWA Global Excellence Scholarship
 -   Relevant Projects:
-    - **Business Analytical Report - BMW car sales**: Utilized Power BI and R for sales data analysis, demonstrating advanced data manipulation and reporting skills. `HD`
-    - **Data Warehousing & Association Rule Mining**: Conducted comprehensive sales and supply analysis using R, SQL, SSMS, and Power BI, showcasing the ability to generate accurate outputs and identify trends. `HD & Top1 project`
+
+    - Business Analytical Report - BMW car sales: Utilized Power BI and R for sales data analysis, demonstrating advanced data manipulation and reporting skills. `HD`
+    - Data Warehousing & Association Rule Mining: Conducted comprehensive sales and supply analysis using R, SQL, SSMS, and Power BI, showcasing the ability to generate accurate outputs and identify trends. `HD & Top1 project`
         -   Achievements: Recognition on the project hall of fame for delivering an exceptional data warehouse solution
 
 -    Other Projects:
+
     -   Exploratory data analysis and Machine learning models (Classification and Clustering in R) `HD & Top1 project`
     -   Web application - BrewChat (HTML, CSS, Javascript, AJAX, jQuery, Flask, SQLAlchemy, Test unittest) `HD & Top3 project`
     -   Graph Database & Graph Data Science - Crime in Atlanta dataset (Neo4j, Cypher, and R) `HD & Top4 project`

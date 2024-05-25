@@ -126,7 +126,7 @@ Taipei, Taiwan
 
 ## Professional Program
 
-### **[CPA Australia (CPAA) Member](https://www.cpaaustralia.com.au)** `2022`
+### **[Certified Practising Accountant(CPA)](https://www.cpaaustralia.com.au)** `2022`
 
 ```
 Australia

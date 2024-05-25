@@ -85,7 +85,7 @@ Taipei, Taiwan
 
 ## Project Experience 
 
-### **[Coders for Causes](https://codersforcauses.org)- [Repair Labs](https://github.com/codersforcauses/repair-labs) Project, Full Stack developer** `2023 Jun – Present`
+### **[Coders for Causes](https://codersforcauses.org)- [Repair Labs](https://github.com/codersforcauses/repair-labs) Project, Full Stack developer** `2023 Jun – 2024 Feb`
 
 -   Technology Stack: Next.js, TypeScript, React, Tailwind CSS, prisma as ORM, Postgres for local DB and Vercel.
 -   Utilised the Figma to design the layout of the mobile version and desktop version.

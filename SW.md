@@ -31,6 +31,45 @@ Supported arguments:
 print format: use --- to separate pages
 -->
 
+
+## Work Experience
+
+### **Greenbase, Front-End Developer** `2024 March - Present`
+
+```
+Perth, Australia
+```
+- Developed responsive and interactive web applications using Angular, TypeScript, HTML, and SCSS, ensuring seamless user experiences.
+- Translated Figma designs into functional and visually appealing user interfaces.
+- Collaborated with backend developers to integrate C# functionalities and perform CRUD operations in SQL for dynamic features.
+- Managed version control with SVN, tracking code changes and coordinating development tasks.
+- Participated in weekly meetings and system workshops, contributing to problem-solving and software improvements.
+- Worked closely with environmental accountant teams to align software functionality with their needs, enhancing overall effectiveness.
+
+### **SisterWorks, Business IT consultant** `2022 Jul - 2022 Aug`
+
+```
+Perth, Australia
+```
+
+-  Conducted comprehensive SWOT and PESTLE analyses to guide the development of targeted marketing strategies for SisterWorks.
+-  Performed in-depth competitor analysis, identifying unique positioning opportunities and enhancing the organization's market value proposition.
+-  Developed and proposed innovative marketing strategies, effectively integrating analytical insights to reach and engage the target audience.
+-  Significantly improved SisterWorks' digital presence, leading to increased service awareness and community engagement.
+-  Worked closely with the non-profit team to align marketing plans with organizational goals, contributing to a marked improvement in market positioning and community impact.
+
+
+### **Deloitte, Senior Auditor** `2016 Sep - 2020 Apr`
+
+```
+Taipei, Taiwan
+```
+
+-   Expertly conducted risk assessments for key financial statement items within COSO framework parameters, ensuring accuracy and compliance.
+-   Excel expert in resolving data inconsistencies through cleaning, manipulation, and mapping.
+-   Proficiently collaborated and communicated with multifunctional departments to achieve seamless workflow and project success.
+
+
 ## Education
 
 ### **University of Western Australia (UWA)** `2021 Feb - 2023 Nov`
@@ -94,31 +133,6 @@ Taichung, Taiwan
 -   Utilised the Figma to design the layout of the mobile version and desktop version.
 -   Collaborated with other student volunteers and familiar with Git version control.
 
-## Work Experience
-
-### **SisterWorks, Business IT consultant** `2022 Jul - 2022 Aug`
-
-```
-Perth, Australia
-```
-
--  Conducted comprehensive SWOT and PESTLE analyses to guide the development of targeted marketing strategies for SisterWorks.
--  Performed in-depth competitor analysis, identifying unique positioning opportunities and enhancing the organization's market value proposition.
--  Developed and proposed innovative marketing strategies, effectively integrating analytical insights to reach and engage the target audience.
--  Significantly improved SisterWorks' digital presence, leading to increased service awareness and community engagement.
--  Worked closely with the non-profit team to align marketing plans with organizational goals, contributing to a marked improvement in market positioning and community impact.
-
-
-### **Deloitte, Senior Auditor** `2016 Sep - 2020 Apr`
-
-```
-Taipei, Taiwan
-```
-
--   Expertly conducted risk assessments for key financial statement items within COSO framework parameters, ensuring accuracy and compliance.
--   Excel expert in resolving data inconsistencies through cleaning, manipulation, and mapping.
--   Proficiently collaborated and communicated with multifunctional departments to achieve seamless workflow and project success.
-
 ## Programming Languages And Tools
 
 -   **Programming & Database Languages:** Python, Java, Javascript, Typescript, R, Shell Script, C, SQLite, MySQL, Cypher Neo4j.
@@ -146,3 +160,4 @@ Available upon request.
 
 <!-- ### Footer
 Last updated: Feb 2023 -->
+
